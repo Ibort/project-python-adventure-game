@@ -1,0 +1,71 @@
+random_creatures = small gnome, glamorous fairy, Grim Reaper, your wife
+random_fainting = slip, hit your head into the cabinet ,, in the excitement you feel a big pressure on your chest ,, it's casting a strange spell on you
+
+
+It's is a usual day, work, eat, sleep in daily repeat. 
+One night while you watching your favorite show, you hear a strange noise from your bedroom. 
+You rush inside your room, where you see <random creature> at your shelf searching for something.
+You sanding there processing who is that and what is it looking for?!
+<But wait! You was living alone in your entire life! You dont have a wife!!>
+After a short time it's turning around and start heading into your direction!
+You start panicking and <random_fainting> ,everything goes black...
+....
+After a while you wake up.
+You find yourself in a very old and rundown elevator.
+On the planel stay's:
+	0. Lobby
+	1. Medical Floor
+	2. Sport Shop Floor
+	3. Manag..."dont come here"
+
+Lobby (items: elevator service key)
+	You trying to push the button, but it won't budge it's stuck.
+	You using your elevator service key, trying to push the button again...
+	it works!! You find yourself in the lobby, runnig towards the exit
+	falling out of the doors.... and you find yourself in your bedroom on the floor.
+	you realize that you was very exhausted from working overtime yesterday.
+	Heading back to wach your show, sitting down into the couch ,you see the < random creature> in the tv
+	But it's turning its head and looks you right in the eye and winks...
+	Here you are, continuing our everyday life... or maybe not...
+
+Medical Floor (item to get: headache pills, items you need: sport shoes)
+	It's a small Medical station, there is dust everywhere. A bandaged creature turning towards you while moaning start to walk in a fast pace into your direction.
+	What do you do?:
+		1: Get back into to elevator and close the door.
+		2: Try to outrun him and look around.
+			- without shoes: 
+				-Trying to outmanouver it but ist faster than it looks... the creature grabs you and tickles you to the next world.... try again
+			- with shoes:
+				-You are runnign like butter on the hot knife... the creature cannot keep up the pace and falls to the ground. It's not moving, now you have time to check around.
+				 In one capinte you find some headache pills, you take it put it in your pocket.
+
+	
+	
+
+Manager Floor(you get: padlock key you need: headache pills, you get: elevator service key)
+	You step into a sparkling clean room, there is a table with some golden statues on it, behind the table sits a generous looking old person.
+	He has a terrible headache and ask for your help. 
+	What do you do:
+		1. You see some unknow pills on the other table, try to give it to him.
+			-He takes the pills and You hears some clicking noise, after that He goes berserk and attack you, 
+			What do you do?:
+				- Run back to the elevator
+					- The elevator doors are not opening, pressing the button does nothing, he's catching up with you holding you down on the ground and start to ask some very annoying questions what annoys you to the next world. Try again
+				- Try to fight him
+					- You have no chance against it's massive power, he's holding you down on the ground and start to ask some very annoying questions what annoys you to the next world. Try again
+		2. Head back to the elevator
+		3. (after you have the headach pills) Give him the headache pills.
+			- After he take the pill, and gets better almost immidietly, after thanking oyu he gives you the Elevator service key.
+
+Sport shop floor (you get sport shoes)
+	You enter into an abandoned sport shop, but the left some trash and stuff there. 
+	As you looking around somethings catch your eyes
+	A shining box on the shelf.
+	You approaching it, lighs even brigther, and you not eve sure do you want to go even closer.
+		Do you want to approach it?
+			- yes
+				As you going there with your eyes closed, you arrived to the box. Opening it you find in there a legendary runnig shoe. On the box cover stays: "Faster then the fastest man on the earth."
+				You throw your old "avarage" shoeas away, and trining the legendary shoes on, it's passes perfectly. Now you have a Legendary runing shoe!
+				Going back to the elevator so fast as no one ever can get there. 
+			- no
+				You turning back and get in the elevator.
